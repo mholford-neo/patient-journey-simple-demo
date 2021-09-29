@@ -1,4 +1,4 @@
-###Patient Journey - Simplified Demo
+### Patient Journey - Simplified Demo
 
 This is the code for the Let's Build a Stored Procedure in Neo4j - Part I blog post.
 
